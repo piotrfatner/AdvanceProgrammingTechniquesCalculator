@@ -7,7 +7,7 @@ package javacalculator;
 
 /**
  *
- * @author fatne, marshall1995
+ * @author marshall1995 (michalMarchel)
  */
 public class JavaCalculator {
 
