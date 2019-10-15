@@ -19,6 +19,10 @@ public class JavaCalculator {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello, Calculator!");
+	System.out.println("Cze�c, jestem Damian!");
+    }
+    
         Scanner scanner = new Scanner(System.in); //morrison
    }    
+
 }
