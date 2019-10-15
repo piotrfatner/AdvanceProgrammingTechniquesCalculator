@@ -5,9 +5,11 @@
  */
 package javacalculator;
 
+import java.util.Scanner; //morrison
+
 /**
  *
- * @author WooCash93 (£ukasz Marzuchowski)
+ * @author fatne, morrison, WooCash93 (Lukasz Marzuchowski)
  */
 public class JavaCalculator {
 
@@ -15,8 +17,6 @@ public class JavaCalculator {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
         System.out.println("Hello, Calculator!  2019-10-15");
     }
-    
 }
