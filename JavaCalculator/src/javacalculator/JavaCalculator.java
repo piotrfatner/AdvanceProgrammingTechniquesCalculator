@@ -5,9 +5,11 @@
  */
 package javacalculator;
 
+import java.util.Scanner; //morrison
+
 /**
  *
- * @author fatne
+ * @author fatne, morrison
  */
 public class JavaCalculator {
 
@@ -18,6 +20,6 @@ public class JavaCalculator {
         // TODO code application logic here
         System.out.println("Hello, Calculator!");
 		//piotr rybak
-    }
-    
+        Scanner scanner = new Scanner(System.in); //morrison
+   }    
 }
