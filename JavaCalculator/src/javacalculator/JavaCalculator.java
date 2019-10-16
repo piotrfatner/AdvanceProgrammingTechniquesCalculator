@@ -13,7 +13,6 @@ import java.util.Scanner; //morrison
  */
 public class JavaCalculator {
 
-
     /**
      * @param args the command line arguments
      */
