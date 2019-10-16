@@ -1,3 +1,5 @@
+package javacalculator;
+import java.util.Scanner; //morrison
 /**
  *
  * @author fatne, morrison
